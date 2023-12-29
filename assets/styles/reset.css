@@ -116,39 +116,3 @@ a {
   box-sizing: border-box;
 }
 
-/* ! ------------------------------------------------------------------------ */
-/* !                                 CONTENT                                  */
-/* ! ------------------------------------------------------------------------ */
-
-section {
-  padding: 1rem 0;
-}
-
-h1,
-h2,
-h3 {
-  padding-bottom: 1rem;
-}
-
-p {
-  padding-bottom: 1rem;
-}
-
-/* CSS to format JavaScript code text */
-.code-text {
-  font-family: "Ubuntu Mono", monospace;
-  padding: 0.5rem;
-  border-radius: 0.5rem;
-  background-color: rgb(43, 43, 44);
-  color: #f5f5f5;
-}
-
-/* CSS to format JavaScript code blocks */
-.code-block {
-  font-family: "Ubuntu Mono", monospace;
-  padding: 1rem;
-  background-color: rgb(43, 43, 44);
-  color: #f5f5f5;
-  border: 0.1rem solid #ddd;
-  border-radius: 0.5rem;
-}
